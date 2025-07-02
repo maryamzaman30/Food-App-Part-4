@@ -8,7 +8,7 @@
 
 Run Online on Expo Snack - https://snack.expo.dev/@maryam222/foodapp
 
-This Project is a user-friendly restaurant and menu browser built with React Native and React Navigation. It offers a curated list of restaurants, each featuring a rich visual layout, estimated delivery time, and a detailed menu. Users can scroll through the home screen to explore different eateries like Joe's Gelato, Pizza Palace and Joe's Café, then tap on any restaurant to view its full menu. Selecting a menu item reveals a beautifully designed detail screen with images, descriptions, prices and nutritional info. With clean navigation and stylish components, this app delivers an intuitive food discovery experience.
+This React Native mini midterm project (part 4 out of 4) is a user-friendly restaurant and menu browser built with React Native and React Navigation. It offers a curated list of restaurants, each featuring a rich visual layout, estimated delivery time, and a detailed menu. Users can scroll through the home screen to explore different eateries like Joe's Gelato, Pizza Palace and Joe's Café, then tap on any restaurant to view its full menu. Selecting a menu item reveals a beautifully designed detail screen with images, descriptions, prices and nutritional info. With clean navigation and stylish components, this app delivers an intuitive food discovery experience.
 
 ## Getting Started
 
